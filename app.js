@@ -1,3 +1,7 @@
+//  @author: Sonu Gupta
+//  @details: Demonstartion of web based To-do utility using node.js and MongoDB. 
+//
+
 var express = require('express');
 var todoController = require('./controllers/todoController');
 
